@@ -1,0 +1,142 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #40514e;
+}
+
+hr{
+    border-style: dotted none none;
+    border-color: #eaf6f6;
+    border-width: 6px;
+    width: 5%;
+    margin: 100px auto;
+  }
+
+h1 {
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Yusei Magic', sans-serif;
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: #66BFBF;
+  font-family: 'Yusei Magic', sans-serif;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
+.top-container {
+  background-color: #eaf6f6;
+  padding-top: 100px;
+  line-height: 2;
+}
+.middle-container{
+  padding: 100px 0;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 10px 0;
+}
+.BUTTON_XUE {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: 'Open Sans Condensed', sans-serif;
+   font-size: 40px;
+   font-weight: 100;
+   padding: 5px;
+   background-color: #66BFBF;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 20px 0 20px 0;
+}
+
+.BUTTON_XUE:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.footer-link{
+  Margin: 10px 20px;
+}
+.subtitle{
+  font-weight: normal;
+}
+
+.violin {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 200px;
+}
+
+.profilephoto {
+  border-radius: 50%;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.violin-icon {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.tree-icon {
+  width: 25%;
+  float: right;
+}
+
+.copyright{
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.icon-attribution{
+  font-size: 0.75rem;
+}
